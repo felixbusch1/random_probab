@@ -24,3 +24,5 @@ With non-default settings for example
 ```bash
 python3 random_probab.py -l 8 -n 64
 ```
+
+![alt text](https://github.com/felixbusch1/random_probab/blob/master/Plot)
