@@ -20,9 +20,10 @@ With default settings (length (l) = 8, number of strings (n) = 128)
 ```bash
 python3 random_probab.py 
 ```
+
+![alt text](https://github.com/felixbusch1/random_probab/blob/master/Plot)
+
 With non-default settings for example
 ```bash
 python3 random_probab.py -l 8 -n 64
 ```
-
-![alt text](https://github.com/felixbusch1/random_probab/blob/master/Plot)
