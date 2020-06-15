@@ -8,7 +8,7 @@ The result is plottet in a graph.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to use random_probab.
 
 ```bash
 pip3 install matplotlib numpy
