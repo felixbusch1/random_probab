@@ -70,9 +70,9 @@ def generate_binary_strings(number_of_strings_to_generate, binary_string_length)
 #               
 #              binary_string_length = 4
 #
-#              Output: [0, 1, 2, 1]
-#              (no binary string with no ones, one binary string with a one, two with two ones 
-#               and only one with three ones)
+#              Output: [0, 1, 2, 1, 0]
+#              (no binary string with no ones, one binary string with a one, two with two ones, 
+#               only one with three "ones" and no "one" with four "ones".)
 #
 # Return value: list of the results
 
